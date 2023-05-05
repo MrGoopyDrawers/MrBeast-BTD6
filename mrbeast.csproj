@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>mrbeast</RootNamespace>
+        <Configurations>Debug;Release</Configurations>
+        <Nullable>enable</Nullable>
+        <AssemblyName>mrbeast</AssemblyName>
+        <LangVersion>latest</LangVersion>
+        <Optimize>False</Optimize>
+        <DebugType>embedded</DebugType>
+    </PropertyGroup>
+
+    <Import Project="..\btd6.targets" />
+
+    <ItemGroup>
+      <None Remove="beastburgerIcon.png" />
+      <None Remove="beastBurgerProj.png" />
+      <None Remove="hannahKiticon.png" />
+      <None Remove="karlJacobsIcon.png" />
+      <None Remove="karlJacobsProj.png" />
+      <None Remove="LiveStreamIcon.png" />
+      <None Remove="mrbeast-Icon.png" />
+      <None Remove="mrbeast-Portrait.png" />
+      <None Remove="mrbeastBlast.png" />
+      <None Remove="mrBeastCharity.png" />
+      <None Remove="mrBeastCool.png" />
+      <None Remove="mrBeastEducation.png" />
+      <None Remove="mrBeastEducationLast.png" />
+      <None Remove="mrBeastEducationMoney.png" />
+      <None Remove="mrBeastOnTop.png" />
+      <None Remove="mrBeastParagon.png" />
+      <None Remove="mrBeastPhilanthropy.png" />
+      <None Remove="mrbeastprojectile.png" />
+      <None Remove="richGuyIcon.png" />
+      <None Remove="silverPlayButton.png" />
+      <None Remove="youtubeIcon.png" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="BloonsTD6 Mod Helper">
+        <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\Btd6ModHelper (6).dll</HintPath>
+      </Reference>
+    </ItemGroup>
+</Project>

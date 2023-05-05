@@ -1,0 +1,12 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\bin\Debug\net6.0\mrbeast.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\bin\Debug\net6.0\mrbeast.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\bin\Debug\net6.0\Btd6ModHelper (6).dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\obj\Debug\net6.0\mrbeast.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\obj\Debug\net6.0\mrbeast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\obj\Debug\net6.0\mrbeast.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\obj\Debug\net6.0\mrbeast.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\obj\Debug\net6.0\mrbeast.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\obj\Debug\net6.0\mrbeast.csproj.CopyComplete
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\obj\Debug\net6.0\mrbeast.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\obj\Debug\net6.0\refint\mrbeast.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\mrbeast\obj\Debug\net6.0\ref\mrbeast.dll
