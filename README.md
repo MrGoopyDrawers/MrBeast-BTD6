@@ -7,5 +7,6 @@
 
 Yes you can have MRBEAST in the game now lol.
 comes with 15 paths and a paragon.
+You can now properly download this mod in the browser. Repositories fixed.
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
